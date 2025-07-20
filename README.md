@@ -1,4 +1,4 @@
-# <span style="color:red">Airbnb Bookings Analysis</span>
+# ***Airbnb Bookings Analysis***
 
 ## Project Type - EXPLOTORY DATA ANALYSIS
 
@@ -19,14 +19,14 @@ Matplotlib.Pyplot
 Seaborn
 
 ### Project Work flow
-Load Data
-Inspection
-Data Cleaning
-Univariate Analysis
-Bivariate Analysis
-Data Visualization
-Feature Engineering
-Business Conclusion
+- Load Data
+- Inspection
+- Data Cleaning
+- Univariate Analysis
+- Bivariate Analysis
+- Data Visualization
+- Feature Engineering
+- Business Conclusion
 
 ### Objective of Analysis
 - Analyze price trends and identify affordable vs. premium segments
