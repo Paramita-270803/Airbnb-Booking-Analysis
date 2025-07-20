@@ -1,4 +1,4 @@
-# <span style="color:red">**Airbnb Bookings Analysis**</span>
+# <span style="color:red">Airbnb Bookings Analysis</span>
 
 ## Project Type - EXPLOTORY DATA ANALYSIS
 
