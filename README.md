@@ -24,10 +24,10 @@ using data visualization to explore and understand patterns in Airbnb data. We c
 - Features (Columns): 16, including:
 
 ### Different Python libraries were use to complete this EDA:
-Pandas
-NumPy
-Matplotlib.Pyplot
-Seaborn
+- Pandas
+- NumPy
+- Matplotlib.Pyplot
+- Seaborn
 
 ### Project Work flow
 - Load Data
