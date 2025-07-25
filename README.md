@@ -1,5 +1,7 @@
 # ***Airbnb Bookings Analysis***
 
+![Airbnb Logo](https://www.kindpng.com/picc/m/130-1307237_airbnb-logo-transparent-background-hd-png-download.png)
+
 ## Project Type - EXPLOTORY DATA ANALYSIS
 
 ### Project Summary - 
